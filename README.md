@@ -26,3 +26,4 @@ A very popular application where users can submit tokens information as they lik
 - 中文微信群：请添加微信号 kleros_cn
 ## Articles
 - [链闻报道](https://www.chainnews.com/articles/745053917891.htm)
+- [a tutorial about using linguo written by a kleros community member](https://steemit.com/kleros/@coinsniperx/new-kleros-dapp-is-almost-ready-to-be-deployed)
