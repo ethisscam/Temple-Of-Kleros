@@ -23,7 +23,10 @@ check [here](https://simpsons.fandom.com/wiki/Linguo)!
 - [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d)
 - OKEX
 ## Statistics
-- [Klerosboard](http://klerosboard.com/): This is the Dashboard of the Kleros Court. Here you can find metrics about the amount of cases, jurors, stakes, etc. In addition, in the Juror Odds section, you can estimate your chances of being drawn in the different courts.
+- [Klerosboard](http://klerosboard.com/): 
+> This is the Dashboard of the Kleros Court. Here you can find metrics about the amount of cases, jurors, stakes, etc. In addition, in the Juror Odds section, you can estimate your chances of being drawn in the different courts.
+
+[Here](https://github.com/salgozino/KlerosJurorDashboard/issues) is the source code of klerosboard.Thanks to [koki](https://www.t.me/kokialgo)!
 ## Community
 - [Official Forum](https://forum.kleros.io/)
 - [Official Telegram](https://t.me/kleros)
