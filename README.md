@@ -5,14 +5,14 @@ a curate list of Kleros
 - [WhitePaper](https://kleros.io/static/whitepaper_en-8bd3a0480b45c39899787e17049ded26.pdf)
 ## Application
 - [Token Curate Register(TCR)](https://curate.kleros.io/tcr/0xba0304273a54dfec1fc7f4bccbf4b15519aecf15): 
-An application for users submitting their curate list.It can be any kind of list as long as it obeys the listing rules.For now,there is list such as Omen Verified Market,Kleros    Storytelling,tcl.fund etc.
+An application for users submitting their curate list. It can be any kind of list as long as it obeys the listing rules. For now,there are lists such as Omen Verified Market, Kleros Storytelling, tcl.fund etc.
   - [source code configuration](https://github.com/kleros/gtcr/blob/master/netlify.toml)
   
 - [T<sup>2</sup>CR](https://tokens.kleros.io/tokens): 
-A very popular application where users can submit tokens information as they like.Now the list has been adopted by Uniswap.
+A very popular application where users can submit tokens information as they like. Now the list has been adopted by Uniswap.
 
 - [linguo test version](https://linguo-beta.netlify.app/home):
-This hasn't been to mainnet because the high gas fee but I think it will be a killer dapp!a dapp for freelancer to translate!
+This hasn't been to mainnet because the high gas fee but I think it will be a killer dapp! a dapp for freelancer to translate!
 Are you curious the source of linguo?
 check [here](https://simpsons.fandom.com/wiki/Linguo)!
 ## Token
@@ -26,7 +26,7 @@ check [here](https://simpsons.fandom.com/wiki/Linguo)!
 - [Klerosboard](http://klerosboard.com/): 
 > This is the Dashboard of the Kleros Court. Here you can find metrics about the amount of cases, jurors, stakes, etc. In addition, in the Juror Odds section, you can estimate your chances of being drawn in the different courts.
 
-[Here](https://github.com/salgozino/KlerosJurorDashboard/issues) is the source code of klerosboard.Thanks to [koki](https://www.t.me/kokialgo)!
+[Here](https://github.com/salgozino/KlerosJurorDashboard/issues) is the source code of klerosboard. Thanks to the author [koki](https://www.t.me/kokialgo)!
 ## Community
 - [Official Forum](https://forum.kleros.io/)
 - [Official Telegram](https://t.me/kleros)
