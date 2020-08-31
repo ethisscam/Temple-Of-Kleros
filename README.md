@@ -1,5 +1,5 @@
 # Temple-Of-Kleros
-a curate list of Kleros
+A Curate List of Kleros
 -------------------------
 - [Official Site](https://kleros.io/)
 - [WhitePaper](https://kleros.io/static/whitepaper_en-8bd3a0480b45c39899787e17049ded26.pdf)
