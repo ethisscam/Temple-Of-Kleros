@@ -12,6 +12,7 @@ An application for users submitting their curate list. It can be any kind of lis
   
 - [T<sup>2</sup>CR](https://tokens.kleros.io/tokens): 
 A very popular application where users can submit tokens information as they like. Now the list has been adopted by Uniswap.
+  - [An example to get token lists](https://codesandbox.io/s/t2cr-and-badges-nyqi6?file=/src/index.js)
 
 - [linguo test version](https://linguo-beta.netlify.app/home):
 This hasn't been to mainnet because the high gas fee but I think it will be a killer dapp! a dapp for freelancer to translate!
